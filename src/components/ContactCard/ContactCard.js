@@ -1,3 +1,5 @@
+//this file is managing the contact card component
+
 import {
     Card, CardImg, CardText, CardBody,
     CardTitle, Button
